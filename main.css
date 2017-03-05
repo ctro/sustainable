@@ -1,0 +1,33 @@
+html {
+  background-color: green;
+  margin: 0 17%;
+  color: #eee;
+  font-size: 142%
+}
+
+#header img {
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  margin-top: 7%;
+  border-bottom: dotted 2px;
+  color: #FEFEC3
+}
+
+a {
+  color: white;
+}
+
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  height: 0;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 11%;
+}
